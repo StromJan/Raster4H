@@ -1,5 +1,7 @@
 # Raster4H
-Raster datasets for Helsinki area created from HSY and Helsinki city open access data. Made to be manipulated by P4UL scripts (https://github.com/mjsauvinen/P4UL)
+Raster datasets for Helsinki area created from HSY and Helsinki city open access data. 
+Made to be manipulated by P4UL scripts (https://github.com/mjsauvinen/P4UL)
+PALM-ready input files utilize P4UL scripts and Topography/Orography maps from RasterH3D (https://github.com/mjsauvinen/RasterH3D/)
 
 Usage: Made to be used in modeling purposes where information about surface types is required.
 
@@ -36,10 +38,10 @@ https://hri.fi/data/dataset/helsingin-rakennukset
 
 ## Pavement type
 
-Tiivistelmä: HSY:n ja Helsingin kaupungin avoimesta datasta tehty kartta, joka käyttää seudullisen maanpeiteaineiston (HSY,2018) maankäyttökerroksia ja Helsingin kaupungin YLRE (YLeisten alueiden REkisteri) tietoja katu- ja viheralueista sekä niiden materiaaleista.
+Tiivistelmä: HSY:n ja Helsingin kaupungin avoimesta datasta tehty kartta, joka käyttää seudullisen maanpeiteaineiston maankäyttökerroksia ja Helsingin kaupungin YLRE (Ylisten alueiden Reksteri) tietoja katu- ja viheralueista sekä niiden materiaaleista.
 HSY:n aineisto yhdistetty Helsingin kaupungin kanssa siten, että kerrokset päällystetty/päällystämätön on määritetty vastaavasti asfalttibetoniksi/kivituhkaksi.
 
-Abstract: Information about land use and materials 
+Abstract: Pavement raster map created from HSY and Helsinki city open data. HSY layers "paved/unpaved roads" are defined as "asphalt/fine gravel" respectively.
 
 Tarkemmat tiedot: 
 YLRE: https://hri.fi/data/fi/dataset/helsingin-kaupungin-yleisten-alueiden-rekisteri
