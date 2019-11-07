@@ -1,7 +1,7 @@
 # Raster4H
 Raster datasets for Helsinki area created from HSY and Helsinki city open access data. 
-Made to be manipulated by P4UL scripts (https://github.com/mjsauvinen/P4UL)
-PALM-ready input files utilize P4UL scripts and Topography/Orography maps from RasterH3D (https://github.com/mjsauvinen/RasterH3D/)
+- Made to be manipulated by P4UL scripts (https://github.com/mjsauvinen/P4UL)
+- PALM-ready input files utilize P4UL scripts and Topography/Orography maps from RasterH3D (https://github.com/mjsauvinen/RasterH3D/)
 
 Usage: Made to be used in modeling purposes where information about surface types is required.
 
