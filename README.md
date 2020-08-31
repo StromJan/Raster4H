@@ -2,6 +2,7 @@
 Raster datasets for Helsinki area created from HSY and Helsinki city open access data. 
 - Made to be manipulated by P4UL scripts (https://github.com/mjsauvinen/P4UL)
 - PALM-ready input files utilize P4UL scripts and Topography/Orography maps from RasterH3D (https://github.com/mjsauvinen/RasterH3D/)
+- Final version has updated topography and orography maps for whole Helsinki area using the same open access LiDar dataset from https://kartta.hel.fi/ Created mainly using scripts kindly provided by Mikko Auvine  (https://github.com/mjsauvinen) from the Finnish Meteorological Institute (FMI).
 
 Usage: Made to be used in modeling purposes where information about surface types is required.
 
@@ -9,6 +10,7 @@ DISCLAIMER:
 - All rasters were created in June 2019. Any changes made after this time to the source files such as buildings added by Helsinki city are obviously not included.
 - Building type has missing buildings and should be only used as a mask on more accurate maps.
 - HSY map layer "water impervious surfaces (2018)" is originally from vegetation type, but is included in pavement type as asphalt/concrete mixture.
+- Updated topography and orography maps do NOT have data from the military areas of Santahamina etc. for security reasons.
 
 ## Soil type
 
