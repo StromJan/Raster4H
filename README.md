@@ -2,7 +2,7 @@
 Raster datasets for Helsinki area created from HSY and Helsinki city open access data. 
 - Made to be manipulated by P4UL scripts (https://github.com/mjsauvinen/P4UL)
 - PALM-ready input files utilize P4UL scripts and Topography/Orography maps from RasterH3D (https://github.com/mjsauvinen/RasterH3D/)
-- Final version has updated topography and orography maps for whole Helsinki area using the same open access LiDar dataset from https://kartta.hel.fi/ Created mainly using scripts kindly provided by Mikko Auvine  (https://github.com/mjsauvinen) from the Finnish Meteorological Institute (FMI).
+- Final version has updated topography and orography maps for whole Helsinki area using the same open access LiDar dataset from https://kartta.hel.fi/ Created mainly using scripts kindly provided by Mikko Auvinen  (https://github.com/mjsauvinen) from the Finnish Meteorological Institute (FMI).
 
 Usage: Made to be used in modeling purposes where information about surface types is required.
 
